@@ -40,7 +40,8 @@
     -12
   ],
   "builtInMods": [
-    "ground_support"
+    "ground_support",
+    "bdeck"
   ],
   "builtInWeapons": {
     "WS0002": "diableavionics_microbuiltin",
